@@ -29,11 +29,11 @@ A **React-based web application** with separate **Admin and User panels** for ma
 
 ## 💡 Screenshots  
 
-### Login Panel  
+
 
 ![Admin Panel Screenshot](./screenshots/1730339174692.jpg)  
 
-### User Panel  
+
 
 ![User Panel Screenshot](./screenshots/1730339175668.jpg)  
 
